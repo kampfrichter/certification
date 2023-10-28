@@ -9,3 +9,9 @@ cd c:\folder_name
 ```sh
 dir
 ```
+
+deleting file in Windows
+
+```sh
+del <filename>
+```
