@@ -34,3 +34,16 @@ git checkout
 ```sh
 git status
 ```
+
+* отображение "ветки"
+```sh
+git branch
+```
+
+* переключение ветки
+```sh
+git checkout + "branch_name"
+```
+
+* добавление картинки
+![котэ](котик.jpg)
