@@ -52,3 +52,9 @@ git checkout + "branch_name"
 ```sh
 git merge + "branch_name"
 ```
+
+* ## второй способ слияния веток
+
+```sh
+git rebase + "branch_name"
+```
