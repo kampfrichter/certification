@@ -47,3 +47,8 @@ git checkout + "branch_name"
 
 * ## Добавление картинки
 ![котэ](котик.jpg)
+
+* ## слияние веток
+```sh
+git merge + "branch_name"
+```
